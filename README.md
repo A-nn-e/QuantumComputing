@@ -1,4 +1,4 @@
-# QuantumComputing
+# Quantum Computing Project
 
 
 ## Quantum Message Hiding
